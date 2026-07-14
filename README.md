@@ -36,5 +36,5 @@ Sou um desenvolvedor em formação focado na criação de soluções eficientes 
 ---
 
 ### 📬 Conecte-se comigo
-* **LinkedIn:** [linkedin.com/in/cassio-k](https://linkedin.com/in/seu-usuario)
+* **LinkedIn:** [linkedin.com/in/cassio-k](https://linkedin.com/in/seu-usuario)](https://www.linkedin.com/in/cassio-kennyd-831061226)
 * **E-mail:** cassio.kdsl2000@gmail.com
