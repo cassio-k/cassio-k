@@ -18,10 +18,13 @@ Atuo no desenvolvimento de soluções focadas em automação, processamento de d
 
 ---
 
+Markdown
 ### 📊 Estatísticas e Atividade
 
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cassio-k&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <!-- Estatísticas Gerais (Provedor alternativo e estável) -->
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=gotham" alt="Estatísticas do GitHub" />
+  <!-- Sequência de Commits (Streak) -->
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" alt="Sequência de Commits" />
 </div>
 
