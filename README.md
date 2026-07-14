@@ -4,8 +4,6 @@
 
 Atuo no desenvolvimento de soluções focadas em automação, processamento de dados e interfaces dinâmicas. Tenho experiência prática no ecossistema Python e bancos de dados SQL, migrando arquiteturas para soluções escaláveis e eficientes, além de projetar dashboards responsivos e camadas de integração de alta performance.
 
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
@@ -21,19 +19,12 @@ Atuo no desenvolvimento de soluções focadas em automação, processamento de d
 Markdown
 ### 📊 Estatísticas e Atividade
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=gotham" width="100%" alt="Estatísticas do GitHub" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" width="100%" alt="Sequência de Commits" />
-    </td>
-  </tr>
-</table>
----
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=gotham" height="180px" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" height="180px" alt="Sequência de Commits" />
+</p>
 
 ### 📬 Contato
 
-* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/cassio-kennyd-831062126)
+* **LinkedIn:** [Meu perfil profissional](www.linkedin.com/in/cassio-kennyd-831061226)
 * **E-mail:** [cassio.kdsl2000@gmail.com](mailto:cassio.kdsl2000@gmail.com)
