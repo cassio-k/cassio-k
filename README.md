@@ -21,13 +21,16 @@ Atuo no desenvolvimento de soluções focadas em automação, processamento de d
 Markdown
 ### 📊 Estatísticas e Atividade
 
-<div align="flex">
-  <!-- Estatísticas Gerais (Provedor alternativo e estável) -->
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=gotham" alt="Estatísticas do GitHub" />
-  <!-- Sequência de Commits (Streak) -->
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" alt="Sequência de Commits" />
-</div>
-
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=gotham" width="100%" alt="Estatísticas do GitHub" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" width="100%" alt="Sequência de Commits" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📬 Contato
