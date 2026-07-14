@@ -1,6 +1,6 @@
-# Cássio Kennyd 👋
+# Cassio Kennyd
 
-### Desenvolvedor Full-Stack | Especialista em Integração e Segurança
+### Desenvolvedor Full-Stack | Especialista em Segurança
 
 Atuo no desenvolvimento de soluções focadas em automação, processamento de dados e interfaces dinâmicas. Tenho experiência prática no ecossistema Python e bancos de dados SQL, migrando arquiteturas para soluções escaláveis e eficientes, além de projetar dashboards responsivos e camadas de integração de alta performance.
 
@@ -21,7 +21,7 @@ Atuo no desenvolvimento de soluções focadas em automação, processamento de d
 Markdown
 ### 📊 Estatísticas e Atividade
 
-<div align="left">
+<div align="flex">
   <!-- Estatísticas Gerais (Provedor alternativo e estável) -->
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=gotham" alt="Estatísticas do GitHub" />
   <!-- Sequência de Commits (Streak) -->
