@@ -19,8 +19,8 @@ Atuo no monitoramento de redes e frotas de dispositivos em tempo real, garantind
 ### Estatísticas e Atividade
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=dark" height="163px" alt="Estatísticas do GitHub"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" height="160px" alt="Sequência de Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cassio-k&theme=dark" height="139px" alt="Estatísticas do GitHub"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" height="133px" alt="Sequência de Commits" />
 </div>
 
 ---
