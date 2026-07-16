@@ -19,8 +19,8 @@ Atuo no monitoramento de redes e frotas de dispositivos em tempo real, garantind
 ### Estatísticas e Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassio-k&theme=react-dark&bg_color=151515&hide_border=true" height="169px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" height="163px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassio-k&theme=react-dark&bg_color=151515&hide_border=true" height="149px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cassio-k&theme=dark" height="143px" />
 </p>
 
 ---
